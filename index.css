@@ -1,0 +1,30 @@
+body {
+}
+
+p {
+  margins: none;
+  padding: none;
+}
+
+div.tooltip {
+  position: absolute;
+  height: auto;
+  max-width: auto;
+  padding: 0 5px 0 5px;
+  background-color: lightblue;
+  color: black;
+  font-weight: bold;
+  pointer-events: none;
+  border-radius: 5px;
+  border: 1px solid black;
+  font-size: 16px
+}
+
+g.legend {
+  position: absolute;
+  height: auto;
+  max-width: auto;
+  font-family: "sans-serif";
+  color: #666666;
+  font-size: 14px
+}

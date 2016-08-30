@@ -1,0 +1,10 @@
+* Dope or Nope Scatter Plot
+
+** Description
+This scatter plot, made with D3, charts the fastest cyclists to climb the Alpe d'Huez stage of the Tour de France. It also exposes cyclists who used performance enhancing drugs by coloring their point red. Finally, a tooltip provides information regarding when each cyclist made his ascent, his time, and the details of their doping allegations (if any).
+
+** View Project 
+http://www.fugalfunkster.com/dopeOrNope/
+
+** Todo list
+- [ ] make D3 chart width responsive
